@@ -40,6 +40,15 @@ const Contato = () => {
           href="mailto:suporte@bip360.com.br"
           email="suporte@bip360.com.br"
         />
+
+        {/* Comercial */}
+        <InfoContato
+          nome="Comercial"
+          servicos="Negociação e esclarecimentos de duvidas de empresas interessadas oferecidos pela Bip360"
+          whatsapp="(17) 98163-0490"
+          href="mailto:comercial@bip360.com.br"
+          email="comercial@bip360.com.br"
+        />
       </div>
     </section>
   );
