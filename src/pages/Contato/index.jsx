@@ -44,7 +44,7 @@ const Contato = () => {
         {/* Comercial */}
         <InfoContato
           nome="Comercial"
-          servicos="Negociação e esclarecimentos de duvidas de empresas interessadas oferecidos pela Bip360"
+          servicos="Negociação e esclarecimentos de dúvidas, de empresas interessadas nos sistemas oferecidos pela Bip360"
           whatsapp="(17) 98163-0490"
           href="mailto:comercial@bip360.com.br"
           email="comercial@bip360.com.br"
