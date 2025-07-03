@@ -33,7 +33,7 @@ const Menu = () => {
             <li key={index}>
               <Link
                 to={rota.to}
-                className="font-mono text-xl hover:underline hover:text-black-900 transition-colors duration-200"
+                className="font-menu text-gray-500 text-xl hover:underline hover:text-black-900 transition-colors duration-200"
               >
                 {rota.label}
               </Link>

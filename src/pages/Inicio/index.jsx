@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import videos from "../../data/videos.json";
 import perfil from "../../assets/modelo2_360.png";
 import Tag from "../../components/Tag";
@@ -36,6 +36,17 @@ const Inicio = () => {
   const indiceInicial = (paginaAtual - 1) * VÍDEOS_POR_PAGINA;
   const indiceFinal = indiceInicial + VÍDEOS_POR_PAGINA;
   const videosPaginados = videosFiltrados.slice(indiceInicial, indiceFinal);
+
+  useEffect(() => {
+    setPaginaAtual(1);
+  }, [tagSelecionada, busca]);
+
+  useEffect(() => {
+    window.scroll({
+      top: 0,
+      behavior: "smooth",
+    });
+  }, [paginaAtual]);
 
   return (
     <section className="bg-blue-50 w-full min-h-screen px-4 py-6">
