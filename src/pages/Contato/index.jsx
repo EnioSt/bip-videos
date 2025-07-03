@@ -25,7 +25,7 @@ const Contato = () => {
         {/* Protheus */}
         <InfoContato
           nome="Sistema Protheus"
-          servicos="Suporte relacionado os sistema protheus utilizado internamente na empresa."
+          servicos="Suporte relacionado ao sistema protheus utilizado internamente na empresa."
           whatsapp=" (17) 99791-0529"
           href="mailto:atendimentoprotheus@bip360.com.br"
           email="atendimentoprotheus@bip360.com.br"
