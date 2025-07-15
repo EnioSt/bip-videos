@@ -6,6 +6,7 @@ import Sobre from "./pages/Sobre";
 import Banner from "./components/Banner";
 import Footer from "./components/Footer";
 import Whatsapp from "./components/Whatsapp/whatsapp";
+import VideoPage from "./pages/VideoPage";
 
 function AppRouter() {
   return (
@@ -15,9 +16,10 @@ function AppRouter() {
         <Routes>
           <Route path="/" element={<Banner />}>
             <Route index element={<Inicio />} />
-            <Route path="/contato" element={<Contato />} />
-            <Route path="/sobre" element={<Sobre />} />
+            <Route path="contato" element={<Contato />} />
+            <Route path="sobre" element={<Sobre />} />
           </Route>
+          <Route path="video/:id" element={<VideoPage />} />
         </Routes>
         <Whatsapp />
         <Footer />

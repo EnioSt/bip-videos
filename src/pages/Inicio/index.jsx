@@ -4,6 +4,7 @@ import perfil from "../../assets/modelo2_360.png";
 import Tag from "../../components/Tag";
 import YouTubeEmbed from "../../components/YouTubeEmbed";
 import { TAGS, TAG_COLORS, formatarTag } from "../../utils/tags";
+import { useNavigate } from "react-router-dom";
 
 const MiniTag = ({ tag }) => (
   <span
@@ -16,9 +17,10 @@ const MiniTag = ({ tag }) => (
 );
 
 const Inicio = () => {
+  const navigate = useNavigate();
   const [tagSelecionada, setTagSelecionada] = useState("todos");
   const [busca, setBusca] = useState("");
-  const [videoAtivo, setVideoAtivo] = useState(null);
+  const [videoAtivo] = useState(null);
   const [paginaAtual, setPaginaAtual] = useState(1);
   const VÍDEOS_POR_PAGINA = 12;
 
@@ -95,7 +97,7 @@ const Inicio = () => {
                     src={video.url}
                     thumbnail={video.thumbnail}
                     isActive={videoAtivo === video.id}
-                    onPlay={() => setVideoAtivo(video.id)}
+                    onPlay={() => navigate(`/video/${video.id}`)}
                   />
                 </div>
 
