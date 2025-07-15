@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import YouTubeEmbed from "./YouTubeEmbed";
+import YouTubeEmbed from "../YouTubeEmbed";
 import videos from "../data/videos.json";
 
 const VideoSugestoes = ({ atual }) => {
