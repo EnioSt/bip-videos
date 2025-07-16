@@ -2,6 +2,7 @@ import { useNavigate, useParams } from "react-router-dom";
 import videos from "../../data/videos.json";
 import YouTubeEmbed from "../../components/YouTubeEmbed";
 import VideoSugestoes from "../../components/VideoSugestoes";
+import { useEffect } from "react";
 
 const VideoPage = () => {
   const { id } = useParams();
@@ -10,6 +11,13 @@ const VideoPage = () => {
 
   console.log("ID da URL:", id);
   console.log("Vídeo encontrado:", video);
+
+  useEffect(() => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  }, []);
 
   if (!video) {
     return (
@@ -20,7 +28,7 @@ const VideoPage = () => {
   }
 
   return (
-    <section className="min-h-screen bg-white px-6 py-12">
+    <section className="min-h-screen bg-blue-50 px-6 py-12">
       <div className="max-w-4xl mx-auto">
         <button
           className="mb-6 text-blue-600 hover:underline text-sm"
