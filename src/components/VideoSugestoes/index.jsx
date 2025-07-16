@@ -22,7 +22,7 @@ const VideoSugestoes = ({ atual }) => {
         {recomendados.map((v) => (
           <div
             key={v.id}
-            className="bg-blue-50 rounded-lg shadow-sm overflow-hidden cursor-pointer hover:shadow-md transition"
+            className="bg-blue-100 rounded-lg shadow-sm overflow-hidden cursor-pointer hover:shadow-md transition"
             onClick={() => navigate(`/video/${v.id}`)}
           >
             <div className="aspect-video">
