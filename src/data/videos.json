@@ -1,6 +1,177 @@
 [
   {
     "id": 1,
+    "title": "Sincronização de Notas no BIP360 PDV",
+    "url": "https://www.youtube.com/embed/E6z5umZ-Q-w",
+    "thumbnail": "https://i.ytimg.com/vi/E6z5umZ-Q-w/hqdefault.jpg",
+    "tags": [
+      "pdv"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Tutorial - Cadastro de impostos de Produtos no BIP360 Gestor (Visão Franquia)",
+    "url": "https://www.youtube.com/embed/hC7sumfVCRE",
+    "thumbnail": "https://i.ytimg.com/vi/hC7sumfVCRE/hqdefault.jpg",
+    "tags": [
+      "gestor"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Nascemos para fazer sua empresa escalar num bip!",
+    "url": "https://www.youtube.com/embed/FnRrR3D2Uzw",
+    "thumbnail": "https://i.ytimg.com/vi/FnRrR3D2Uzw/hqdefault.jpg",
+    "tags": [
+      "outros"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "O impacto da BIP360 nas redes e franquias",
+    "url": "https://www.youtube.com/embed/sC1Paz4zZcs",
+    "thumbnail": "https://i.ytimg.com/vi/sC1Paz4zZcs/hqdefault.jpg",
+    "tags": [
+      "outros"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "ABF 2025 | Depoimento de Leonardo – SLECHI Sorvetes",
+    "url": "https://www.youtube.com/embed/FlPV_ixkeQ4",
+    "thumbnail": "https://i.ytimg.com/vi/FlPV_ixkeQ4/hqdefault.jpg",
+    "tags": [
+      "outros"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Conheça o Menu Board da BIP360",
+    "url": "https://www.youtube.com/embed/t1J1Io6fTb8",
+    "thumbnail": "https://i.ytimg.com/vi/t1J1Io6fTb8/hqdefault.jpg",
+    "tags": [
+      "menuboard"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Você busca inovação, praticidade e um sistema inteligente para a sua rede?",
+    "url": "https://www.youtube.com/embed/qigSV0D83aU",
+    "thumbnail": "https://i.ytimg.com/vi/qigSV0D83aU/hqdefault.jpg",
+    "tags": [
+      "outros"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Como o PDV ajuda as redes a vender mais",
+    "url": "https://www.youtube.com/embed/Vw1t243KWOs",
+    "thumbnail": "https://i.ytimg.com/vi/Vw1t243KWOs/hqdefault.jpg",
+    "tags": [
+      "pdv"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "ABF 2025 | Agilidade e inteligência para redes de food service",
+    "url": "https://www.youtube.com/embed/_8nS8HLRSGE",
+    "thumbnail": "https://i.ytimg.com/vi/_8nS8HLRSGE/hqdefault.jpg",
+    "tags": [
+      "outros"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "ABF 2025 | Depoimento do cliente Bruno Eber (Chiquinho Sorvetes)",
+    "url": "https://www.youtube.com/embed/09HFqNwyZUo",
+    "thumbnail": "https://i.ytimg.com/vi/09HFqNwyZUo/hqdefault.jpg",
+    "tags": [
+      "outros"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Mudança de Apte para BIP360",
+    "url": "https://www.youtube.com/embed/rUIc_G9P9Uk",
+    "thumbnail": "https://i.ytimg.com/vi/rUIc_G9P9Uk/hqdefault.jpg",
+    "tags": [
+      "outros"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "ABF 2025 | O Momento Estratégico da BIP",
+    "url": "https://www.youtube.com/embed/WanINpCCufI",
+    "thumbnail": "https://i.ytimg.com/vi/WanINpCCufI/hqdefault.jpg",
+    "tags": [
+      "outros"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "ABF 2025 | Mudança de marca",
+    "url": "https://www.youtube.com/embed/830Pqz9YH2g",
+    "thumbnail": "https://i.ytimg.com/vi/830Pqz9YH2g/hqdefault.jpg",
+    "tags": [
+      "outros"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "ABF 2025 - Depoimento de cliente (Chiquinho Sorvetes)",
+    "url": "https://www.youtube.com/embed/geE6jV78sao",
+    "thumbnail": "https://i.ytimg.com/vi/geE6jV78sao/hqdefault.jpg",
+    "tags": [
+      "outros"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Agradecemos a todos que passaram pelo nosso estande, conheceram e fizeram parte desse momento!",
+    "url": "https://www.youtube.com/embed/wOqKrM0JB3k",
+    "thumbnail": "https://i.ytimg.com/vi/wOqKrM0JB3k/hqdefault.jpg",
+    "tags": [
+      "outros"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "A BIP360 mostra na prática como a tecnologia agiliza e potencializa a gestão das suas vendas!",
+    "url": "https://www.youtube.com/embed/hT9mzm-jzQM",
+    "thumbnail": "https://i.ytimg.com/vi/hT9mzm-jzQM/hqdefault.jpg",
+    "tags": [
+      "outros"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "SOMOS BIP360!",
+    "url": "https://www.youtube.com/embed/f0JEYMnEKM0",
+    "thumbnail": "https://i.ytimg.com/vi/f0JEYMnEKM0/hqdefault.jpg",
+    "tags": [
+      "outros"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Case de Sucesso: Slechi Sorvetes",
+    "url": "https://www.youtube.com/embed/0qRmsfr11QI",
+    "thumbnail": "https://i.ytimg.com/vi/0qRmsfr11QI/hqdefault.jpg",
+    "tags": [
+      "outros"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "ABF 2025",
+    "url": "https://www.youtube.com/embed/msOxEnzX2M0",
+    "thumbnail": "https://i.ytimg.com/vi/msOxEnzX2M0/hqdefault.jpg",
+    "tags": [
+      "outros"
+    ]
+  },
+  {
+    "id": 20,
     "title": "Somos BIP360!",
     "url": "https://www.youtube.com/embed/A7BQFutHYWs",
     "thumbnail": "https://i.ytimg.com/vi/A7BQFutHYWs/hqdefault.jpg",
@@ -9,16 +180,7 @@
     ]
   },
   {
-    "id": 2,
-    "title": "Case de Sucesso: Slechi Sorvetes",
-    "url": "https://www.youtube.com/embed/NT1R1IviAOo",
-    "thumbnail": "https://i.ytimg.com/vi/NT1R1IviAOo/hqdefault.jpg",
-    "tags": [
-      "outros"
-    ]
-  },
-  {
-    "id": 3,
+    "id": 21,
     "title": "Descubra o poder da organização empresarial",
     "url": "https://www.youtube.com/embed/vh8ICV8ROEA",
     "thumbnail": "https://i.ytimg.com/vi/vh8ICV8ROEA/hqdefault.jpg",
@@ -27,7 +189,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 22,
     "title": "Como realizar o fechamento de caixa no Apte PDV",
     "url": "https://www.youtube.com/embed/o3_0nPfmtgg",
     "thumbnail": "https://i.ytimg.com/vi/o3_0nPfmtgg/hqdefault.jpg",
@@ -36,7 +198,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 23,
     "title": "Você sabe como funciona o suporte da Apte?",
     "url": "https://www.youtube.com/embed/I4f9DwBqakM",
     "thumbnail": "https://i.ytimg.com/vi/I4f9DwBqakM/hqdefault.jpg",
@@ -45,7 +207,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 24,
     "title": "Como alavancar as vendas do seu Food Service?",
     "url": "https://www.youtube.com/embed/idWF8IvGqT4",
     "thumbnail": "https://i.ytimg.com/vi/idWF8IvGqT4/hqdefault.jpg",
@@ -54,7 +216,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 25,
     "title": "Sincronização de Notas no Apte PDV",
     "url": "https://www.youtube.com/embed/ajfmpB_Q2V8",
     "thumbnail": "https://i.ytimg.com/vi/ajfmpB_Q2V8/hqdefault.jpg",
@@ -63,7 +225,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 26,
     "title": "Como atrair seus clientes e apresentar os produtos de forma mais dinâmica?",
     "url": "https://www.youtube.com/embed/ewU7XtljwEs",
     "thumbnail": "https://i.ytimg.com/vi/ewU7XtljwEs/hqdefault.jpg",
@@ -72,7 +234,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 27,
     "title": "Apte Gestor: como ter todos dados de vendas em uma tela só?",
     "url": "https://www.youtube.com/embed/cp84awXxhcs",
     "thumbnail": "https://i.ytimg.com/vi/cp84awXxhcs/hqdefault.jpg",
@@ -81,7 +243,7 @@
     ]
   },
   {
-    "id": 10,
+    "id": 28,
     "title": "Case de Sucesso: GAaFeR - Parceria que vai além de chocolates",
     "url": "https://www.youtube.com/embed/5lNE8k4iIv8",
     "thumbnail": "https://i.ytimg.com/vi/5lNE8k4iIv8/hqdefault.jpg",
@@ -90,7 +252,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 29,
     "title": "Como ter controle do estoque do seu negócio?",
     "url": "https://www.youtube.com/embed/k6sJ8yXkLFs",
     "thumbnail": "https://i.ytimg.com/vi/k6sJ8yXkLFs/hqdefault.jpg",
@@ -99,7 +261,7 @@
     ]
   },
   {
-    "id": 12,
+    "id": 30,
     "title": "Como nosso Apte PDV funciona de forma offline?",
     "url": "https://www.youtube.com/embed/DVDo2ACH1sY",
     "thumbnail": "https://i.ytimg.com/vi/DVDo2ACH1sY/hqdefault.jpg",
@@ -108,7 +270,7 @@
     ]
   },
   {
-    "id": 13,
+    "id": 31,
     "title": "Apte na ABF 2024",
     "url": "https://www.youtube.com/embed/xw2dfzIVgz8",
     "thumbnail": "https://i.ytimg.com/vi/xw2dfzIVgz8/hqdefault.jpg",
@@ -117,7 +279,7 @@
     ]
   },
   {
-    "id": 14,
+    "id": 32,
     "title": "3º ano consecutivo da Apte na ABF Expo 2024 🚀",
     "url": "https://www.youtube.com/embed/3f8SaaY6TJU",
     "thumbnail": "https://i.ytimg.com/vi/3f8SaaY6TJU/hqdefault.jpg",
@@ -126,7 +288,7 @@
     ]
   },
   {
-    "id": 15,
+    "id": 33,
     "title": "Apte PDV: Facilita suas vendas!",
     "url": "https://www.youtube.com/embed/hDmjUHyczjM",
     "thumbnail": "https://i.ytimg.com/vi/hDmjUHyczjM/hqdefault.jpg",
@@ -135,7 +297,7 @@
     ]
   },
   {
-    "id": 16,
+    "id": 34,
     "title": "Dica sobre o Apte Gestor",
     "url": "https://www.youtube.com/embed/ykgil8-b684",
     "thumbnail": "https://i.ytimg.com/vi/ykgil8-b684/hqdefault.jpg",
@@ -144,7 +306,7 @@
     ]
   },
   {
-    "id": 17,
+    "id": 35,
     "title": "ABF 2024 - Depoimento de cliente (Chiquinho Sorvetes)",
     "url": "https://www.youtube.com/embed/0ARu4kuIphc",
     "thumbnail": "https://i.ytimg.com/vi/0ARu4kuIphc/hqdefault.jpg",
@@ -153,7 +315,7 @@
     ]
   },
   {
-    "id": 18,
+    "id": 36,
     "title": "Apte Portal de Pedidos: Gerencia seus produtos!",
     "url": "https://www.youtube.com/embed/5F3VsbFkgn4",
     "thumbnail": "https://i.ytimg.com/vi/5F3VsbFkgn4/hqdefault.jpg",
@@ -162,7 +324,7 @@
     ]
   },
   {
-    "id": 19,
+    "id": 37,
     "title": "Apte Menu Board: Impulsione suas vendas!",
     "url": "https://www.youtube.com/embed/saeypFGAv4Y",
     "thumbnail": "https://i.ytimg.com/vi/saeypFGAv4Y/hqdefault.jpg",
@@ -171,7 +333,7 @@
     ]
   },
   {
-    "id": 20,
+    "id": 38,
     "title": "ABF 2024 - Depoimento de cliente (GAaFeR Chocolateria)",
     "url": "https://www.youtube.com/embed/qQepdwXpN9c",
     "thumbnail": "https://i.ytimg.com/vi/qQepdwXpN9c/hqdefault.jpg",
@@ -180,7 +342,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": 39,
     "title": "Conheça a Apte Tecnologia!",
     "url": "https://www.youtube.com/embed/aUCidzi-V3Q",
     "thumbnail": "https://i.ytimg.com/vi/aUCidzi-V3Q/hqdefault.jpg",
@@ -189,7 +351,7 @@
     ]
   },
   {
-    "id": 22,
+    "id": 40,
     "title": "Veja como ficou nosso stand na ABF Expo 2024!",
     "url": "https://www.youtube.com/embed/Im7EDrvVA20",
     "thumbnail": "https://i.ytimg.com/vi/Im7EDrvVA20/hqdefault.jpg",
@@ -198,7 +360,7 @@
     ]
   },
   {
-    "id": 23,
+    "id": 41,
     "title": "Apte PDV: Registrar uma venda com pagamento parcial",
     "url": "https://www.youtube.com/embed/S2gj9Htrzu4",
     "thumbnail": "https://i.ytimg.com/vi/S2gj9Htrzu4/hqdefault.jpg",
@@ -207,7 +369,7 @@
     ]
   },
   {
-    "id": 24,
+    "id": 42,
     "title": "Apte PDV: Registrar uma venda com pagamento integral",
     "url": "https://www.youtube.com/embed/XJDemdDnxdA",
     "thumbnail": "https://i.ytimg.com/vi/XJDemdDnxdA/hqdefault.jpg",
@@ -216,7 +378,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 43,
     "title": "Entrada de Nota de Compra via XML (Visão Franquia)",
     "url": "https://www.youtube.com/embed/l5aMPVxH4sM",
     "thumbnail": "https://i.ytimg.com/vi/l5aMPVxH4sM/hqdefault.jpg",
@@ -225,7 +387,7 @@
     ]
   },
   {
-    "id": 26,
+    "id": 44,
     "title": "Como utilizar o banner do Apte Portal de Pedidos para avisos e informações relevantes (Franqueadora)",
     "url": "https://www.youtube.com/embed/EWn45WwKOuQ",
     "thumbnail": "https://i.ytimg.com/vi/EWn45WwKOuQ/hqdefault.jpg",
@@ -234,7 +396,7 @@
     ]
   },
   {
-    "id": 27,
+    "id": 45,
     "title": "Atualizações de forma rápida e fácil com o Apte Menu Board (Visão Franqueadora)",
     "url": "https://www.youtube.com/embed/tRpa__AW9B8",
     "thumbnail": "https://i.ytimg.com/vi/tRpa__AW9B8/hqdefault.jpg",
@@ -243,7 +405,7 @@
     ]
   },
   {
-    "id": 28,
+    "id": 46,
     "title": "Tutorial - Cadastro e Lançamento de Caderneta no Apte Gestor (Visão Franquia)",
     "url": "https://www.youtube.com/embed/pO5N39orBhs",
     "thumbnail": "https://i.ytimg.com/vi/pO5N39orBhs/hqdefault.jpg",
@@ -252,7 +414,7 @@
     ]
   },
   {
-    "id": 29,
+    "id": 47,
     "title": "Tutorial – Cadastro de produto: Insumo, Adicional, Produto Final e vínculo de Composição",
     "url": "https://www.youtube.com/embed/bZP2oxAzQyY",
     "thumbnail": "https://i.ytimg.com/vi/bZP2oxAzQyY/hqdefault.jpg",
@@ -261,7 +423,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 48,
     "title": "Módulo Jurídico",
     "url": "https://www.youtube.com/embed/D6CGzVFr1S4",
     "thumbnail": "https://i.ytimg.com/vi/D6CGzVFr1S4/hqdefault.jpg",
@@ -270,7 +432,7 @@
     ]
   },
   {
-    "id": 31,
+    "id": 49,
     "title": "Módulo Extranet",
     "url": "https://www.youtube.com/embed/Rfu3tuQBnHs",
     "thumbnail": "https://i.ytimg.com/vi/Rfu3tuQBnHs/hqdefault.jpg",
@@ -279,7 +441,7 @@
     ]
   },
   {
-    "id": 32,
+    "id": 50,
     "title": "Módulo Expansão",
     "url": "https://www.youtube.com/embed/EMLeSXUqUuE",
     "thumbnail": "https://i.ytimg.com/vi/EMLeSXUqUuE/hqdefault.jpg",
@@ -288,7 +450,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 51,
     "title": "Módulo Estoque",
     "url": "https://www.youtube.com/embed/xRlp7DcOv24",
     "thumbnail": "https://i.ytimg.com/vi/xRlp7DcOv24/hqdefault.jpg",
@@ -297,7 +459,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 52,
     "title": "Módulo Delivery",
     "url": "https://www.youtube.com/embed/qPVGy7RLcmc",
     "thumbnail": "https://i.ytimg.com/vi/qPVGy7RLcmc/hqdefault.jpg",
@@ -306,7 +468,7 @@
     ]
   },
   {
-    "id": 35,
+    "id": 53,
     "title": "Módulo Consultoria",
     "url": "https://www.youtube.com/embed/3OOV9RSBG18",
     "thumbnail": "https://i.ytimg.com/vi/3OOV9RSBG18/hqdefault.jpg",
@@ -315,7 +477,7 @@
     ]
   },
   {
-    "id": 36,
+    "id": 54,
     "title": "Módulo Acompanhamento",
     "url": "https://www.youtube.com/embed/2cwFIbdmDwk",
     "thumbnail": "https://i.ytimg.com/vi/2cwFIbdmDwk/hqdefault.jpg",
@@ -324,7 +486,7 @@
     ]
   },
   {
-    "id": 37,
+    "id": 55,
     "title": "Módulo Franqueadora",
     "url": "https://www.youtube.com/embed/PpeZiDU6Vno",
     "thumbnail": "https://i.ytimg.com/vi/PpeZiDU6Vno/hqdefault.jpg",
@@ -333,7 +495,7 @@
     ]
   },
   {
-    "id": 38,
+    "id": 56,
     "title": "Tutorial - Cadastro de produto e vínculo com o fornecedor no Apte Gestor (Visão Franquia)",
     "url": "https://www.youtube.com/embed/ipRC9mKKDUM",
     "thumbnail": "https://i.ytimg.com/vi/ipRC9mKKDUM/hqdefault.jpg",
@@ -342,7 +504,7 @@
     ]
   },
   {
-    "id": 39,
+    "id": 57,
     "title": "Tutorial - Cadastro de fornecedor no Apte Gestor (Visão Franquia)",
     "url": "https://www.youtube.com/embed/5zrTf2_npFY",
     "thumbnail": "https://i.ytimg.com/vi/5zrTf2_npFY/hqdefault.jpg",
@@ -351,7 +513,7 @@
     ]
   },
   {
-    "id": 40,
+    "id": 58,
     "title": "Tutorial - Movimentação de Estoque em lista no APTE Gestor (Visão Franquia)",
     "url": "https://www.youtube.com/embed/0F6AQzn49Rk",
     "thumbnail": "https://i.ytimg.com/vi/0F6AQzn49Rk/hqdefault.jpg",
@@ -360,7 +522,7 @@
     ]
   },
   {
-    "id": 41,
+    "id": 59,
     "title": "Tutorial - Configuração dos preços do Apte PDV, Cardápio Digital e Menu Board (Visão Franquia)",
     "url": "https://www.youtube.com/embed/TMzSCkBgR34",
     "thumbnail": "https://i.ytimg.com/vi/TMzSCkBgR34/hqdefault.jpg",
@@ -369,7 +531,7 @@
     ]
   },
   {
-    "id": 42,
+    "id": 60,
     "title": "Tutorial - Cadastro de perfil e usuário do Apte Gestor (Visão Franquia)",
     "url": "https://www.youtube.com/embed/Z7Y7ipCgbno",
     "thumbnail": "https://i.ytimg.com/vi/Z7Y7ipCgbno/hqdefault.jpg",
@@ -378,7 +540,7 @@
     ]
   },
   {
-    "id": 43,
+    "id": 61,
     "title": "Tutorial - Interação com a plataforma de negociações do iFood! (Apte PDV)",
     "url": "https://www.youtube.com/embed/DWsBpFNvV7w",
     "thumbnail": "https://i.ytimg.com/vi/DWsBpFNvV7w/hqdefault.jpg",
@@ -388,7 +550,7 @@
     ]
   },
   {
-    "id": 44,
+    "id": 62,
     "title": "Tutorial - Cadastros de Impostos nos Produtos (Visão Franquia)",
     "url": "https://www.youtube.com/embed/HkL-bEDb974",
     "thumbnail": "https://i.ytimg.com/vi/HkL-bEDb974/hqdefault.jpg",
@@ -397,7 +559,7 @@
     ]
   },
   {
-    "id": 45,
+    "id": 63,
     "title": "Tutorial - Como fazer a contagem de estoque pelo Apte Gestor (Visão Franquia)",
     "url": "https://www.youtube.com/embed/cnzl6J06RNg",
     "thumbnail": "https://i.ytimg.com/vi/cnzl6J06RNg/hqdefault.jpg",
@@ -406,7 +568,7 @@
     ]
   },
   {
-    "id": 46,
+    "id": 64,
     "title": "Tutorial - Nova funcionalidade de &#39;Help&#39; no Apte Gestor (Visão Franquia)",
     "url": "https://www.youtube.com/embed/pH7QdrWb2_8",
     "thumbnail": "https://i.ytimg.com/vi/pH7QdrWb2_8/hqdefault.jpg",
@@ -415,7 +577,7 @@
     ]
   },
   {
-    "id": 47,
+    "id": 65,
     "title": "Conheça o Apte PDV!",
     "url": "https://www.youtube.com/embed/RYKhQbYQWSM",
     "thumbnail": "https://i.ytimg.com/vi/RYKhQbYQWSM/hqdefault.jpg",
@@ -424,7 +586,7 @@
     ]
   },
   {
-    "id": 48,
+    "id": 66,
     "title": "Conheça o Apte Menu Board!",
     "url": "https://www.youtube.com/embed/ioXkriV-YbM",
     "thumbnail": "https://i.ytimg.com/vi/ioXkriV-YbM/hqdefault.jpg",
@@ -433,7 +595,7 @@
     ]
   },
   {
-    "id": 49,
+    "id": 67,
     "title": "Conheça o Apte Portal de Pedidos!",
     "url": "https://www.youtube.com/embed/r81Cj8xOGNE",
     "thumbnail": "https://i.ytimg.com/vi/r81Cj8xOGNE/hqdefault.jpg",
@@ -442,7 +604,7 @@
     ]
   },
   {
-    "id": 50,
+    "id": 68,
     "title": "Tutorial - IFood: Aceite Automático (Apte PDV)",
     "url": "https://www.youtube.com/embed/e9dXzjMsE1Q",
     "thumbnail": "https://i.ytimg.com/vi/e9dXzjMsE1Q/hqdefault.jpg",
@@ -452,7 +614,7 @@
     ]
   },
   {
-    "id": 51,
+    "id": 69,
     "title": "Tutorial - Novas funcionalidades no DRE (Visão Franquia)",
     "url": "https://www.youtube.com/embed/lE5iXPFPQMM",
     "thumbnail": "https://i.ytimg.com/vi/lE5iXPFPQMM/hqdefault.jpg",
@@ -461,7 +623,7 @@
     ]
   },
   {
-    "id": 52,
+    "id": 70,
     "title": "Tutorial - Cadastro de usuário no Apte PDV (Visão Franquia)",
     "url": "https://www.youtube.com/embed/7eLaG9s9RoA",
     "thumbnail": "https://i.ytimg.com/vi/7eLaG9s9RoA/hqdefault.jpg",
@@ -471,7 +633,7 @@
     ]
   },
   {
-    "id": 53,
+    "id": 71,
     "title": "Conheça o Apte Gestor!",
     "url": "https://www.youtube.com/embed/WHliizGu5rM",
     "thumbnail": "https://i.ytimg.com/vi/WHliizGu5rM/hqdefault.jpg",
@@ -480,7 +642,7 @@
     ]
   },
   {
-    "id": 54,
+    "id": 72,
     "title": "Sistemas especializados em Food Service",
     "url": "https://www.youtube.com/embed/_FVy7Yq1PGw",
     "thumbnail": "https://i.ytimg.com/vi/_FVy7Yq1PGw/hqdefault.jpg",
@@ -489,7 +651,7 @@
     ]
   },
   {
-    "id": 55,
+    "id": 73,
     "title": "Case de Sucesso: Rede de Franquias Chiquinho Sorvetes",
     "url": "https://www.youtube.com/embed/lGB4-qWwCNU",
     "thumbnail": "https://i.ytimg.com/vi/lGB4-qWwCNU/hqdefault.jpg",
