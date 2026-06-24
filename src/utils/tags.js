@@ -4,6 +4,7 @@ export const TAGS = [
   { label: "PDV", value: "pdv" },
   { label: "Portal de Compras", value: "portal" },
   { label: "Menuboard", value: "menuboard" },
+  { label: "Totem", value: "totem" },
 ];
 
 export const TAG_COLORS = {
@@ -11,6 +12,7 @@ export const TAG_COLORS = {
   gestor: "bg-blue-100 text-blue-800",
   portal: "bg-yellow-100 text-yellow-800",
   menuboard: "bg-pink-100 text-pink-800",
+  totem: "bg-purple-100 text-purple-800",
   outros: "bg-gray-200 text-gray-700",
 };
 
@@ -20,6 +22,7 @@ export const formatarTag = (tag) => {
     gestor: "Gestor",
     portal: "Portal de Compras",
     menuboard: "Menu Board",
+    totem: "Totem",
     outros: "Outros",
   };
 

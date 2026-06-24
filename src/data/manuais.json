@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "titulo": "07_-CADASTRO_DE_IMPOSTOS_(Viso_loja)",
+    "arquivo": "/manuais/gestor/07_-CADASTRO_DE_IMPOSTOS_(Viso_loja).pdf.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 2,
+    "titulo": "ALTERACAO DE PREÇOS",
+    "arquivo": "/manuais/gestor/ALTERACAO DE PREÇOS.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 3,
+    "titulo": "CADASTRO DE CADERNETA",
+    "arquivo": "/manuais/gestor/CADASTRO DE CADERNETA.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 4,
+    "titulo": "CADASTRO DE TAXA FORMA DE PAGAMENTO",
+    "arquivo": "/manuais/gestor/CADASTRO DE TAXA FORMA DE PAGAMENTO.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 5,
+    "titulo": "CADASTRO DE USUARIO PDV (Visão Loja)",
+    "arquivo": "/manuais/gestor/CADASTRO DE USUARIO PDV (Visão Loja).pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 6,
+    "titulo": "CADASTRO_DE_PERFIL_USURIO",
+    "arquivo": "/manuais/gestor/CADASTRO_DE_PERFIL_USURIO.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 7,
+    "titulo": "CANCELAR ENTRADA DE NOTA",
+    "arquivo": "/manuais/gestor/CANCELAR ENTRADA DE NOTA.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 8,
+    "titulo": "ESTORNO DE TÍTULOS",
+    "arquivo": "/manuais/gestor/ESTORNO DE TÍTULOS.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 9,
+    "titulo": "FINANCEIRO - COMO EXCLUIR OU ALTERAR TÍTULOS",
+    "arquivo": "/manuais/gestor/FINANCEIRO - COMO EXCLUIR OU ALTERAR TÍTULOS.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 10,
+    "titulo": "FLUXO FINANCEIRO",
+    "arquivo": "/manuais/gestor/FLUXO FINANCEIRO.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 11,
+    "titulo": "MANUAL_ECONF",
+    "arquivo": "/manuais/gestor/MANUAL_ECONF.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 12,
+    "titulo": "NOTA DE DEVOLUÇÃO",
+    "arquivo": "/manuais/gestor/NOTA DE DEVOLUÇÃO.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 13,
+    "titulo": "MENUBOARD (2)",
+    "arquivo": "/manuais/menuboard/MENUBOARD (2).pdf",
+    "tags": ["menuboard"]
+  },
+  {
+    "id": 14,
+    "titulo": "COMO REALIZAR SANGRIA",
+    "arquivo": "/manuais/pdv/COMO REALIZAR SANGRIA.pdf",
+    "tags": ["pdv"]
+  },
+  {
+    "id": 15,
+    "titulo": "COMO REALIZAR SUPRIMENTO",
+    "arquivo": "/manuais/pdv/COMO REALIZAR SUPRIMENTO.pdf",
+    "tags": ["pdv"]
+  },
+  {
+    "id": 16,
+    "titulo": "LIMPAR FILA IMPRESSORA",
+    "arquivo": "/manuais/pdv/LIMPAR FILA IMPRESSORA.pdf",
+    "tags": ["pdv"]
+  },
+  {
+    "id": 17,
+    "titulo": "SINCRONIZAÇÃO DE NOTAS",
+    "arquivo": "/manuais/pdv/SINCRONIZAÇÃO DE NOTAS.pdf",
+    "tags": ["pdv"]
+  },
+  {
+    "id": 18,
+    "titulo": "UTILIZAO_PDV",
+    "arquivo": "/manuais/pdv/UTILIZAO_PDV.pdf",
+    "tags": ["pdv"]
+  },
+  {
+    "id": 19,
+    "titulo": "MANUAL ADM TOTEM",
+    "arquivo": "/manuais/totem/MANUAL ADM TOTEM.pptx.pdf",
+    "tags": ["totem"]
+  }
+]

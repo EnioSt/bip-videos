@@ -9,7 +9,7 @@ const Banner = () => {
           <img
             src={banner}
             alt="imagem do banner"
-            className="w-full h-40 md:h-60 object-cover"
+            className="w-full h-40 md:h-40 object-cover"
           />
         </div>
       </header>
