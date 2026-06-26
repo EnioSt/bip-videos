@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "titulo": "Cadastro de Impostos",
+    "arquivo": "/manuais/gestor/07_-CADASTRO_DE_IMPOSTOS_(Viso_loja).pdf.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 2,
+    "titulo": "Alteração de Preços",
+    "arquivo": "/manuais/gestor/ALTERACAO DE PREÇOS.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 3,
+    "titulo": "Cadastro de Caderneta",
+    "arquivo": "/manuais/gestor/CADASTRO DE CADERNETA.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 4,
+    "titulo": "Cadastro de Taxa por Forma de Pagamento",
+    "arquivo": "/manuais/gestor/CADASTRO DE TAXA FORMA DE PAGAMENTO.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 5,
+    "titulo": "Cadastro de Usuário PDV",
+    "arquivo": "/manuais/gestor/CADASTRO DE USUARIO PDV (Visão Loja).pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 6,
+    "titulo": "Cadastro de Perfil de Usuário",
+    "arquivo": "/manuais/gestor/CADASTRO_DE_PERFIL_USURIO.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 7,
+    "titulo": "Cancelar Entrada de Nota",
+    "arquivo": "/manuais/gestor/CANCELAR ENTRADA DE NOTA.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 8,
+    "titulo": "Estorno de Títulos",
+    "arquivo": "/manuais/gestor/ESTORNO DE TÍTULOS.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 9,
+    "titulo": "Excluir ou Alterar Títulos Financeiros",
+    "arquivo": "/manuais/gestor/FINANCEIRO - COMO EXCLUIR OU ALTERAR TÍTULOS.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 10,
+    "titulo": "Fluxo Financeiro",
+    "arquivo": "/manuais/gestor/FLUXO FINANCEIRO.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 11,
+    "titulo": "Manual E-Conf",
+    "arquivo": "/manuais/gestor/MANUAL_ECONF.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 12,
+    "titulo": "Nota de Devolução",
+    "arquivo": "/manuais/gestor/NOTA DE DEVOLUÇÃO.pdf",
+    "tags": ["gestor"]
+  },
+  {
+    "id": 13,
+    "titulo": "Manual MenuBoard",
+    "arquivo": "/manuais/menuboard/MENUBOARD (2).pdf",
+    "tags": ["menuboard"]
+  },
+  {
+    "id": 14,
+    "titulo": "Como Realizar Sangria",
+    "arquivo": "/manuais/pdv/COMO REALIZAR SANGRIA.pdf",
+    "tags": ["pdv"]
+  },
+  {
+    "id": 15,
+    "titulo": "Como Realizar Suprimento",
+    "arquivo": "/manuais/pdv/COMO REALIZAR SUPRIMENTO.pdf",
+    "tags": ["pdv"]
+  },
+  {
+    "id": 16,
+    "titulo": "Limpar Fila da Impressora",
+    "arquivo": "/manuais/pdv/LIMPAR FILA IMPRESSORA.pdf",
+    "tags": ["pdv"]
+  },
+  {
+    "id": 17,
+    "titulo": "Sincronização de Notas",
+    "arquivo": "/manuais/pdv/SINCRONIZAÇÃO DE NOTAS.pdf",
+    "tags": ["pdv"]
+  },
+  {
+    "id": 18,
+    "titulo": "Utilização do PDV",
+    "arquivo": "/manuais/pdv/UTILIZAO_PDV.pdf",
+    "tags": ["pdv"]
+  },
+  {
+    "id": 19,
+    "titulo": "Manual Administrativo do Totem",
+    "arquivo": "/manuais/totem/MANUAL ADM TOTEM.pptx.pdf",
+    "tags": ["totem"]
+  }
+]

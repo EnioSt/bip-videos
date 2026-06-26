@@ -7,6 +7,8 @@ import Banner from "./components/Banner";
 import Footer from "./components/Footer";
 import Whatsapp from "./components/Whatsapp/whatsapp";
 import VideoPage from "./pages/VideoPage";
+import Videos from "./pages/Inicio/Videos";
+import Manuais from "./pages/Inicio/Manuais";
 
 function AppRouter() {
   return (
@@ -15,7 +17,10 @@ function AppRouter() {
         <Menu />
         <Routes>
           <Route path="/" element={<Banner />}>
-            <Route index element={<Inicio />} />
+            <Route element={<Inicio />}>
+              <Route index element={<Videos />} />
+              <Route path="manuais" element={<Manuais />} />
+            </Route>
             <Route path="contato" element={<Contato />} />
             <Route path="sobre" element={<Sobre />} />
           </Route>
