@@ -5,11 +5,10 @@ const Contato = () => {
   return (
     <section
       className="bg-blue-50 bg-cover bg-center min-h-screen flex items-center justify-center px-6 py-16"
-      style={{ backgroundImage: `url(${imgFundo})` }}
-    >
+      style={{ backgroundImage: `url(${imgFundo})` }}>
       <div className="bg-white bg-opacity-90 p-8 rounded-lg shadow-xl max-w-4xl w-full">
         <h2 className="text-3xl md:text-4xl font-extrabold text-blue-700 mb-8 text-center">
-          Contato BIP360
+          Contatos BIP360
         </h2>
 
         {/* Infraestrutura */}
@@ -23,13 +22,13 @@ const Contato = () => {
         />
 
         {/* Protheus */}
-        <InfoContato
+        {/* <InfoContato
           nome="Sistema Protheus"
           servicos="Suporte relacionado ao sistema protheus utilizado internamente na empresa."
           whatsapp=" (17) 99791-0529"
           href="mailto:atendimentoprotheus@bip360.com.br"
           email="atendimentoprotheus@bip360.com.br"
-        />
+        /> */}
 
         {/* Suporte */}
         <InfoContato

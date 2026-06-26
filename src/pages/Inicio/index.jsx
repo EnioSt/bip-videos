@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Tag from "../../components/Tag";
 import YouTubeEmbed from "../../components/YouTubeEmbed";
 import { TAGS, TAG_COLORS } from "../../utils/tags";
-import { Link, Outlet } from "react-router-dom";
+import { Link, NavLink, Outlet } from "react-router-dom";
 
 const Inicio = () => {
   const [tagSelecionada, setTagSelecionada] = useState("todos");
@@ -65,11 +65,20 @@ const Inicio = () => {
           <ul className="flex flex-col md:flex-row gap-2 md:gap-6 items-center">
             {rotas.map((rota, index) => (
               <li key={index}>
-                <Link
+                <NavLink
                   to={rota.to}
-                  className="font-menu text-gray-500 text-xl hover:underline hover:text-black-900 transition-colors duration-200">
+                  className={({ isActive }) =>
+                    `
+  font-menu text-xl pb-2 border-b-2 transition-all duration-200
+  ${
+    isActive
+      ? "text-blue-600 border-blue-600"
+      : "text-gray-500 border-transparent hover:text-gray-900"
+  }
+`
+                  }>
                   {rota.label}
-                </Link>
+                </NavLink>
               </li>
             ))}
           </ul>
